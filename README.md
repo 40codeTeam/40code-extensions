@@ -1,6 +1,6 @@
 # 40code-extensions
 以下协议声明是使用[turbowarp扩展](https://github.com/TurboWarp/extensions)所需要的声明，不是本仓库的扩展声明
-/*
+```
 MIT License
 
 Copyright (c) 2021-2023 TurboWarp Extensions Contributors
@@ -22,5 +22,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-`*/
+```
 在法律允许的情况下，其余扩展，作者保留所有权利，转载需联系作者授权
